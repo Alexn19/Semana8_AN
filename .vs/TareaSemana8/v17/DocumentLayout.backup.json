@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|e:\\b git\\tareasemana8-mendoza\\tareasemana8\\assets\\scripts\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\control\\botones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\botones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|e:\\b git\\tareasemana8-mendoza\\tareasemana8\\assets\\scripts\\jugadormovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugadormovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\control\\datosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\datosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\control\\contadormuertes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\contadormuertes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\interfaz\\derrotainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaz\\derrotainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\control\\iniciogamejolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\iniciogamejolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\control\\contadornivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\contadornivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\control\\generador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\generador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\enemigos\\jefe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\jefe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\control\\tiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\tiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\enemigos\\jefe4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\jefe4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\enemigos\\jefe3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\jefe3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\enemigos\\enemigo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\enemigos\\jefe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\jefe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\enemigos\\enemigo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\enemigos\\enemigo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\enemigos\\enemigo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\enemigos\\enemigobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\assets\\scripts\\objetos\\balajugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C3C19E-E628-2F95-C824-CBF42F0EC7C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objetos\\balajugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClassDiagram1.cd",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\ClassDiagram1.cd",
+              "RelativeToolTip": "Assets\\Scripts\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-04T22:04:52.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Botones.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\Botones.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\Botones.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\Botones.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\Botones.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:15:00.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InicioGamejolt.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\InicioGamejolt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\InicioGamejolt.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\InicioGamejolt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\InicioGamejolt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:07:24.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DerrotaInterfaz.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Interfaz\\DerrotaInterfaz.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaz\\DerrotaInterfaz.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Interfaz\\DerrotaInterfaz.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaz\\DerrotaInterfaz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:53:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContadorNivel.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\ContadorNivel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\ContadorNivel.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\ContadorNivel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\ContadorNivel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:27:18.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContadorMuertes.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\ContadorMuertes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\ContadorMuertes.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\ContadorMuertes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\ContadorMuertes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:20:54.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tiempo.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\Tiempo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\Tiempo.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\Tiempo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\Tiempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T03:05:22.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatosJuego.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\DatosJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\DatosJuego.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\DatosJuego.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\DatosJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T02:33:54.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Generador.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\Generador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\Generador.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Control\\Generador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\Generador.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:52:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Jefe4.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Jefe4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Jefe4.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Jefe4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Jefe4.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:39:38.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Jefe3.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Jefe3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Jefe3.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Jefe3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Jefe3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:36:15.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enemigo3.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Enemigo3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Enemigo3.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Enemigo3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Enemigo3.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:29:45.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Jefe2.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Jefe2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Jefe2.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Jefe2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Jefe2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:30:12.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Jefe1.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Jefe1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Jefe1.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Jefe1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Jefe1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:23:28.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enemigo2.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Enemigo2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Enemigo2.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Enemigo2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Enemigo2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:17:29.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enemigo1.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Enemigo1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Enemigo1.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Enemigo1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Enemigo1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:37:51.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enemigo4.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Enemigo4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Enemigo4.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\Enemigo4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Enemigo4.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:33:57.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BalaJugador.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Objetos\\BalaJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objetos\\BalaJugador.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Objetos\\BalaJugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objetos\\BalaJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:57:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnemigoBase.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\EnemigoBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\EnemigoBase.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\Enemigos\\EnemigoBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigos\\EnemigoBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:50:16.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JugadorMovimiento.cs",
+              "DocumentMoniker": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\JugadorMovimiento.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JugadorMovimiento.cs",
+              "ToolTip": "E:\\B git\\TareaSemana8-Mendoza\\TareaSemana8\\Assets\\Scripts\\JugadorMovimiento.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JugadorMovimiento.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:05:00.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
