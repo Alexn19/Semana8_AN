@@ -31,7 +31,7 @@ public class DatosJuego : MonoBehaviour
     {
         if (muertesFinales >= 10 && desbloqueado == true)
         {
-            Trophies.Unlock(269520);
+            Trophies.Unlock(270171);
         }
     }
 }

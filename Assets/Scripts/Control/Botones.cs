@@ -10,22 +10,23 @@ public class Botones : MonoBehaviour
 {
     private void Start()
     {
-        Trophies.Unlock(269518);
+        Trophies.Unlock(270166);
     }
 
     public void EmpezarPartida()
     {
         SceneManager.LoadScene("Partida");
-        Trophies.Unlock(269517);
+        Trophies.Unlock(270167);
     }
 
     public void MostrarTrofeos()
     {
         GameJoltUI.Instance.ShowTrophies();
+        Trophies.Unlock(270170);
     }
     public void MostrarRankings()
     {
         GameJoltUI.Instance.ShowLeaderboards();
-        Trophies.Unlock(269521);
+        Trophies.Unlock(270168);
     }
 }

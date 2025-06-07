@@ -22,7 +22,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="DatosJuego">
-    <Position X="17" Y="18.75" Width="1.5" />
+    <Position X="18.75" Y="18.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAABABAAAAAAQAAABAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
       <FileName>Assets\Scripts\Control\DatosJuego.cs</FileName>
@@ -113,7 +113,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="DerrotaInterfaz">
-    <Position X="18.75" Y="18.75" Width="1.5" />
+    <Position X="16.75" Y="18.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAACAAAAAAIAQAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
       <FileName>Assets\Scripts\Interfaz\DerrotaInterfaz.cs</FileName>

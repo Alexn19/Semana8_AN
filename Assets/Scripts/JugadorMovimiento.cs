@@ -88,10 +88,10 @@ public class JugadorMovimiento : MonoBehaviour
         float tiempo = DatosJuego.Instancia.tiempoFinal;
         float nivel = DatosJuego.Instancia.nivelesFinal;
 
-        Scores.Add(Mathf.CeilToInt(tiempo), $"{Mathf.CeilToInt(tiempo)} segundos", 1009611, "", (success) =>
+        Scores.Add(Mathf.CeilToInt(tiempo), $"{Mathf.CeilToInt(tiempo)} segundos", 1010952, "", (success) =>
         {
         });
-        Scores.Add(Mathf.CeilToInt(nivel), $"{Mathf.CeilToInt(nivel)} niveles", 1009614, "", (success) =>
+        Scores.Add(Mathf.CeilToInt(nivel), $"{Mathf.CeilToInt(nivel)} niveles", 1010949, "", (success) =>
         {
         });
 

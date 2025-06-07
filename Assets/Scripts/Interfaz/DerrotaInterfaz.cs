@@ -13,7 +13,7 @@ public class DerrotaInterfaz : MonoBehaviour
 
     private void Start()
     {
-        Trophies.Unlock(269519);
+        Trophies.Unlock(270169);
         tiempoTexto.text = $"Tiempo sobrevivido: {DatosJuego.Instancia.tiempoFinal}";
         muertesTexto.text = $"Muertes finales: {DatosJuego.Instancia.muertesFinales}";
         nivelesTexto.text = $"Nivel alcanzando: {DatosJuego.Instancia.nivelesFinal}";

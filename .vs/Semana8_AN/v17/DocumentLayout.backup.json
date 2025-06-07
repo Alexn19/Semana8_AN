@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\jugadormovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugadormovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\control\\datosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\datosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\interfaz\\derrotainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaz\\derrotainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\control\\botones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\botones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\control\\tiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\tiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\control\\contadornivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\contadornivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\control\\contadormuertes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\contadormuertes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\control\\generador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\generador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\control\\iniciogamejolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\iniciogamejolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JugadorMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\JugadorMovimiento.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JugadorMovimiento.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\JugadorMovimiento.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JugadorMovimiento.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:29:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatosJuego.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\DatosJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\DatosJuego.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\DatosJuego.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\DatosJuego.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:26:40.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tiempo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\Tiempo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\Tiempo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\Tiempo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\Tiempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:22:41.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContadorNivel.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\ContadorNivel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\ContadorNivel.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\ContadorNivel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\ContadorNivel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:22:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContadorMuertes.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\ContadorMuertes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\ContadorMuertes.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\ContadorMuertes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\ContadorMuertes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:22:24.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Generador.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\Generador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\Generador.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\Generador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\Generador.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:21:38.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DerrotaInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Interfaz\\DerrotaInterfaz.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaz\\DerrotaInterfaz.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Interfaz\\DerrotaInterfaz.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaz\\DerrotaInterfaz.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:19:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Botones.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\Botones.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\Botones.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\Botones.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\Botones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:14:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InicioGamejolt.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\InicioGamejolt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\InicioGamejolt.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\InicioGamejolt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Control\\InicioGamejolt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:13:05.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
