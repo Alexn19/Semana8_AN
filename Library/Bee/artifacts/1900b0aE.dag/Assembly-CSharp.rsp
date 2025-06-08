@@ -372,7 +372,7 @@
 "Assets/Scripts/Enemigos/Jefe3.cs"
 "Assets/Scripts/Enemigos/Jefe4.cs"
 "Assets/Scripts/Interfaz/DerrotaInterfaz.cs"
-"Assets/Scripts/JugadorMovimiento.cs"
+"Assets/Scripts/Jugador/JugadorMovimiento.cs"
 "Assets/Scripts/Objetos/BalaJugador.cs"
 -langversion:9.0
 

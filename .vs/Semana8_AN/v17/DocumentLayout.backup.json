@@ -3,47 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\control\\contadormuertes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\contadormuertes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\enemigos\\jefe4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\enemigos\\jefe4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\jefe4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\enemigos\\jefe3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\control\\contadormuertes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\control\\contadormuertes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\enemigos\\jefe3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\jefe3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\enemigos\\jefe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\enemigos\\jefe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\jefe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\enemigos\\jefe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\enemigos\\jefe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\jefe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\enemigos\\enemigobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\enemigos\\enemigobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\enemigos\\enemigo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\enemigos\\enemigo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigo4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\enemigos\\enemigo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\enemigos\\enemigo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\enemigos\\enemigo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\enemigos\\enemigo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\enemigos\\enemigo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\enemigos\\enemigo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigos\\enemigo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|c:\\users\\usuario\\escritorio\\progra final\\semana8_an\\assets\\scripts\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\assets\\scripts\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{7EA55B7E-6929-084D-39D0-367DB8F2D3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
@@ -86,17 +86,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Jefe4.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Enemigos\\Jefe4.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigos\\Jefe4.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Enemigos\\Jefe4.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Jefe4.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T00:07:49.997Z",
               "EditorCaption": ""
@@ -111,8 +111,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Jefe3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:07:48.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:07:48.446Z"
             },
             {
               "$type": "Document",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Jefe2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:07:47.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:07:47.8Z"
             },
             {
               "$type": "Document",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Jefe1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:07:46.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:07:46.824Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemigos\\EnemigoBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:07:45.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:07:45.844Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Enemigo4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:07:44.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:07:44.132Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Enemigo3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:07:43.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:07:43.28Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Enemigo2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:07:42.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:07:42.086Z"
             },
             {
               "$type": "Document",
@@ -202,12 +195,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemigos\\Enemigo1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:07:40.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:07:40.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContadorMuertes.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\Control\\ContadorMuertes.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Control\\ContadorMuertes.cs",
@@ -227,8 +219,7 @@
               "ToolTip": "C:\\Users\\USUARIO\\Escritorio\\Progra final\\Semana8_AN\\Assets\\Scripts\\ClassDiagram1.cd",
               "RelativeToolTip": "Assets\\Scripts\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-06-07T19:39:32.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T19:39:32.076Z"
             },
             {
               "$type": "Document",
@@ -240,8 +231,7 @@
               "RelativeToolTip": "Assets\\Scripts\\JugadorMovimiento.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAwwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:29:28.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T19:29:28.538Z"
             },
             {
               "$type": "Document",
@@ -253,8 +243,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Control\\DatosJuego.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:26:40.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T19:26:40.388Z"
             },
             {
               "$type": "Document",
@@ -266,8 +255,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Control\\Tiempo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:22:41.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T19:22:41.009Z"
             },
             {
               "$type": "Document",
@@ -279,8 +267,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Control\\ContadorNivel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:22:35.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T19:22:35.152Z"
             },
             {
               "$type": "Document",
@@ -292,8 +279,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Control\\Generador.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:21:38.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T19:21:38.973Z"
             },
             {
               "$type": "Document",
@@ -305,8 +291,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Interfaz\\DerrotaInterfaz.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:19:30.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T19:19:30.332Z"
             },
             {
               "$type": "Document",
@@ -318,8 +303,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Control\\Botones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:14:00.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T19:14:00.324Z"
             },
             {
               "$type": "Document",
@@ -331,8 +315,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Control\\InicioGamejolt.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T19:13:05.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T19:13:05.174Z"
             }
           ]
         }

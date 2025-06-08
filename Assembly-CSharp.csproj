@@ -68,9 +68,9 @@
     <Compile Include="Assets\Scripts\Control\ContadorNivel.cs" />
     <Compile Include="Assets\Scripts\Control\ContadorMuertes.cs" />
     <Compile Include="Assets\Scripts\Enemigos\Enemigo2.cs" />
+    <Compile Include="Assets\Scripts\Jugador\JugadorMovimiento.cs" />
     <Compile Include="Assets\Scripts\Control\InicioGamejolt.cs" />
     <Compile Include="Assets\Scripts\Enemigos\Enemigo4.cs" />
-    <Compile Include="Assets\Scripts\JugadorMovimiento.cs" />
     <Compile Include="Assets\Scripts\Interfaz\DerrotaInterfaz.cs" />
     <Compile Include="Assets\Scripts\Control\Generador.cs" />
     <Compile Include="Assets\Scripts\Enemigos\Enemigo1.cs" />
@@ -95,7 +95,7 @@
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\Scripts\ClassDiagram1.cd" />
+    <None Include="Assets\Scripts\Diagrama.cd" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
