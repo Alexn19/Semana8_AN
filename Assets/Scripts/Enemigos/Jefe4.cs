@@ -40,7 +40,7 @@ public class Jefe4 : EnemigoBase
     {
         float velocidadOriginal = jugador_.velocidadMovimiento;
 
-        jugador_.velocidadMovimiento = velocidadOriginal - 7;
+        jugador_.velocidadMovimiento = velocidadOriginal - 6;
         Debug.Log("Jugador detenido");
 
         yield return new WaitForSeconds(5f);

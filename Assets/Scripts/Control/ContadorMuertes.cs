@@ -11,7 +11,7 @@ public class ContadorMuertes : MonoBehaviour
 
     private void Update()
     {
-        textoMuertes.text = $"Enemigos matados: {muertesActuales}";
+        textoMuertes.text = $"Enemigos asesinados: {muertesActuales}";
     }
 
     public void AumentarMuertes()
